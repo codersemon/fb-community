@@ -1,0 +1,41 @@
+// variable 
+:root{
+    --primary-color: #1877f2;
+    --secondary-color: #42b72a;
+    --secondary-hover-color: #36a420;
+    --gray-color: #f0f2f5;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    --border: 1px solid #dddfe2;
+    --white: #ffffff;
+    --black: #000000;
+    --input-bg: #F5F6F7;
+    --gray-text: #8a8d91;
+    --red: #B94A48;
+}
+
+// reset css 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+
+    li{
+        list-style: none;
+    }
+}
+input:focus, select:focus{
+    outline: none;
+}
+
+input, select{
+    border: var(--border);
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
