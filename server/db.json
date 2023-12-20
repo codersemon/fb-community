@@ -1,0 +1,170 @@
+{
+    "fb_home_left_top_nav" : [
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/324503666_575897801048520_7553017535435239467_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHXZQ0bJaajHnNLak8c6ytKPi8ibBh8G-8-LyJsGHwb7-3W-_YqNxSK3vFsBvs0e6YPm6Xzl6WsdbzxHvjdgOic&_nc_ohc=QEsLseNhwZkAX85CmEX&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDlW_L5iuotOv0WK9-dJv9tU3mSW8Yn2uNnKcdSP3QSNQ&oe=658693FA",
+          "link_text": "Emon Khan",
+          "link_url": "/profile/1"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Friends",
+          "link_url": "/friends"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Groups",
+          "link_url": "/groups"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/eECk3ceTaHJ.png",
+          "link_text": "Feeds",
+          "link_url": "/"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Marketplace",
+          "link_url": "/marketplace"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Video",
+          "link_url": "/watch"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/CwKNCefmHON.png",
+          "link_text": "Ad Center",
+          "link_url": "/ad_center"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/ATlxuj_J5ty.png",
+          "link_text": "Ads Manager",
+          "link_url": "ads_manager"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/z3JoyCWlf8g.png",
+          "link_text": "Blood Donations",
+          "link_url": "/blooddonations"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/Jr0q8qKF2-Y.png",
+          "link_text": "Climate Science Center",
+          "link_url": "/climatesciensecenter"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/vTDQ3deAsEh.png",
+          "link_text": "Events",
+          "link_url": "/events"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Fundraisers",
+          "link_url": "/fundraisers"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/fGWbDwbx9W4.png",
+          "link_text": "Gaming Video",
+          "link_url": "/gaming"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Memories",
+          "link_url": "/onthisday"
+        }
+        ,
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/OZtVgL7REJT.png",
+          "link_text": "Messenger",
+          "link_url": "/messages"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/6Z9DShdc7zU.png",
+          "link_text": "Messenger Kids",
+          "link_url": "/messenger_kids"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Pages",
+          "link_url": "/pages"
+        },
+        {
+          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+          "link_text": "Saved",
+          "link_url": "/saved"
+        }
+      ],
+      
+      "fb_home_left_bottom_nav" : [
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/373662511_269984295853808_7384684051890785109_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeG3c4Rf95rhgpnPAlndr1pdHDrbTEji3sccOttMSOLexxmLl3apck6_omM4bqX3zvIULHg3DdWxil297bwy-Tfp&_nc_ohc=9rzKBlI4ry4AX-fRvKd&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCsCwABC18QvonlD6ehttn9A-_MZz3YDHXfpnj87ETrOg&oe=6588940D",
+          "link_text": "Devs Wizard",
+          "link_url": "/devswizard",
+          "type": "profile"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/280182167_1692149884451696_4561469126784728533_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFOCUKXYcRnO7Xhht_2Bvi6We2lmkgmAyVZ7aWaSCYDJTUd5lNRv7MM8W9EXIYO6ORMYaNo7KQtaa49ClvdeP4x&_nc_ohc=QN-SUxfXGVkAX_DR_zy&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAAqfLBXbydN6-NOrgKui6a_LDMW5FC68xXavfPyvmcGg&oe=658720F3",
+          "link_text": "Emon Khan",
+          "link_url": "/codersemonofficial",
+          "type": "profile"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/406346351_790306449773637_6848897806556823192_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=103&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeHGPv-YCQTVrHZtFO0AqWFyAKAucwmaH0MAoC5zCZofQ2-pzaVteKYH1xy1x2aLWiUTAEhvdIgXGHZlW1wVE0TU&_nc_ohc=PxzFKvYGIS4AX_5kqXs&_nc_ht=scontent.fdac7-1.fna&oh=00_AfD-gBDpySMwyK4ZrVHO0fMFznekvSt-ASu-B98ge9xDNg&oe=6587A3CA",
+          "link_text": "Crocoblock Community",
+          "link_url": "/groups/crocoblockcommunity",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/191208192_2114501602036556_7190681657122857818_n.jpg?stp=c30.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeGumDFXBTcQnCz_r2X7euJCkaIYrJaXW0-RohislpdbT8E-BwmCJBVZVHIvF4JQSduxmQePobe6OumbpXtCP7xa&_nc_ohc=IpMyQLe99d4AX-CcibF&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDR1oJw5UMmTYoFnGCqWrKf3DLqfFY7LJhTSXfFrFBqxA&oe=65AA7808",
+          "link_text": "বিভিন্ন সিমের ইন্টারনেট ও মিনিট অফার",
+          "link_url": "/groups/35445654126",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/248175264_3017666975113204_8730332068236152999_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeGghUwNEM_shnWoD3m1xeEx9pk6WCHNQxb2mTpYIc1DFhEadWpH71Wv1vMkJO9vX9Q81DwJLRYM7vxICzj52cU6&_nc_ohc=aHWCWG_PVhcAX_9SKcw&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCQhMbF_TxBkXtlNWCyeQPwiF8m6TgZN33zzh3G0wzSLQ&oe=6588CC0C",
+          "link_text": "To Let Jhenaidah",
+          "link_url": "/groups/354456541265445",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.18169-9/30264757_2064434797178673_8180631816099302818_n.jpg?stp=c9.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=100&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeFld0YX8QY37x5ajZ7iSx7fqO1Yc1TaBuio7VhzVNoG6MJgqMB5UpsjhkEc1a2p0rzW_qEff81RgkaGzfyNPnsB&_nc_ohc=G1z_Z-wEBBgAX-SxJwo&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBXMnWZg52-8J86tTxCfTRSCbnHsVnTIjo8xnSHn4KsYg&oe=65AA6767",
+          "link_text": "ঢাকাস্থ সিদ্ধি কল্যাণ সমিতি",
+          "link_url": "/groups/5689564231",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/139573197_105827148160095_6887825041241198951_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeHKFyyDHXzhes307qtD3RgReLGST9KLcvR4sZJP0oty9LMACevLe-C_nPR2DJfYIB-OILCewT3_nlZMzK6C7zoR&_nc_ohc=eJmBC9i4TK4AX8rfirZ&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDuXxScLEYyBoQ3CbKyNmKCof3c3YhH3Brbz522XVH1Fg&oe=65AA61C9",
+          "link_text": "To Let Kushtia",
+          "link_url": "/groups/35445654126224",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/299848465_470692295066181_4475597950662759526_n.png?stp=cp0_dst-png_p40x40&_nc_cat=103&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFzyvYLN_wWFqHs-F9V25_U7vlAkFAVuTbu-UCQUBW5Noru87nM5CyFcwykQc4Gglehfm1UtPjOcQxU4CQx58HF&_nc_ohc=HmvHVEZ8tDsAX-IZUHD&_nc_ht=scontent.fdac7-1.fna&oh=00_AfApa-6yU79OoI_wZ0BwrdDG2kl4QrUnnMn7V5c9hlwzlQ&oe=6586F634",
+          "link_text": "Git Bazar",
+          "link_url": "/groups/35445654126236565",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/337088483_1480194016121029_2830860512366252985_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeEOWCio7GPTYsx-hkEUeX83Ue6_YsCqDkBR7r9iwKoOQHGOjkEkBlNk0DRThPC5fA52V8tLMfWW-VIMfDAevx10&_nc_ohc=6kRLEzf_oLIAX_uYVCX&_nc_oc=AQmaG9t_rcR9sZ2A05kK97zwR0rV8NDN0DMEk8-obYPrREzW9cjWfb7JVw0PI-tkdBE&_nc_ht=scontent.fdac7-1.fna&oh=00_AfABeg5z5E7ah4AfpAS1fOtzp1jE0cNJHInGgDF169I_8g&oe=6586F27F",
+          "link_text": "Film Fest Online",
+          "link_url": "/groups/3544565412655",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/329806289_725477302416887_4994670770689227377_n.png?stp=cp0_dst-png_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHeVFYfgHtQ2vOqIucCSmpr9jz8rfgrt332PPyt-Cu3fR8LYRUP6w5rbTw95eRzTDchyITyzF5b00uSGnN_hLaH&_nc_ohc=1IPk_QL6r9MAX8_5uI9&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDYrFL3Qh3UGWyFW0nwNebktj-wcA1osQh4G9ZQ6D7jDg&oe=6588DA9F",
+          "link_text": "Big Commerce",
+          "link_url": "/groups/354456541231216",
+          "type": "group"
+        },
+        {
+          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/328295986_1347681189361136_9020204401961479766_n.png?stp=cp0_dst-png_p40x40&_nc_cat=101&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeGi48MIIL5mC2I2AhMC-aWOeMfIgFSrnaB4x8iAVKudoKIdY2LmdBQ3IQMHu2KEM-hzAPTwRh7ym1qX0qBC3MtT&_nc_ohc=V5VmnOekoycAX8A-V75&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBUfsGM1rfOi0ugYnJcyrHgnHnoK7Q2YPtl4ux6AoQZKQ&oe=65877108",
+          "link_text": "Bag House",
+          "link_url": "/groups/3544565412312145246",
+          "type": "group"
+        }
+      ],
+
+      "status_posts": [
+        {
+
+        }
+      ]
+}

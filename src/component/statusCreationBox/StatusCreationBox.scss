@@ -1,0 +1,39 @@
+.status_creation_box {
+    border: none;
+    .card-body{
+        .status_create_top{
+            gap: 15px;
+
+            input{
+                border-radius: 30px;
+                border: none;
+                background-color: var(--gray-color);
+            }
+        }
+
+        .status_create_bottom {
+            margin-top: 11px;
+            padding-top: 11px;
+    
+            ul{
+                li{
+                    flex: 1;
+                    text-align: center;
+                    cursor: pointer;
+                    padding: 10px;
+                    border-radius: 5px;
+                    transition: var(--transition-default);
+    
+                    &:hover{
+                        background-color: #f2f2f2;
+                    }
+
+                    img{
+                        margin-right: 5px;
+                    }
+                }
+            }
+          }
+    }
+  
+}

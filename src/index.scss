@@ -3,6 +3,7 @@
     --primary-color: #1877f2;
     --secondary-color: #42b72a;
     --secondary-hover-color: #36a420;
+    --secondary-icon-color: #65676B;
     --gray-color: #f0f2f5;
     --box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
     --border: 1px solid #dddfe2;
@@ -11,6 +12,9 @@
     --input-bg: #F5F6F7;
     --gray-text: #8a8d91;
     --red: #B94A48;
+    --text-normal-black: #050505;
+
+    --transition-default: all .3s ease-in-out;
 }
 
 // reset css 
@@ -22,8 +26,8 @@
 }
 
 ul{
-    margin: 0;
-    padding: 0;
+    margin: 0 !important;
+    padding: 0 !important;
 
     li{
         list-style: none;

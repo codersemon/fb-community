@@ -1,0 +1,192 @@
+.main {
+  display: flex;
+  flex-flow: row wrap;
+
+  .sidebar-left {
+    width: 20%;
+    height: calc(100vh - 59px);
+    overflow-y: scroll;
+    top: 59px;
+    position: fixed;
+    left: 0;
+    background-color: var(--gray-color);
+
+    // scroolbar for firefox
+    scrollbar-width: thin;
+    scrollbar-color: #bcc0c4 transparent;
+
+    &:hover {
+      scrollbar-color: #bcc0c4 #e6e7eb;
+    }
+
+    // scrollbar for chrome & safari
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: transparent;
+      border-radius: 6px;
+    }
+    &:hover::-webkit-scrollbar-thumb {
+      background-color: #bcc0c4;
+    }
+    &::-webkit-scrollbar-track:hover {
+      background: #e6e7eb;
+    }
+
+    .list {
+      &.top-list {
+        margin-top: 20px !important;
+
+        li {
+          &:nth-child(1) span {
+            border-radius: 50%;
+          }
+          &:nth-child(2) span {
+            background-position: 0 -296px;
+          }
+          &:nth-child(3) span {
+            background-position: 0 -37px;
+          }
+          &:nth-child(5) span {
+            background-position: 0 -407px;
+          }
+          &:nth-child(6) span {
+            background-position: 0 -518px;
+          }
+          &:nth-child(9) span {
+            background-position: -722px -175px;
+          }
+          &:nth-child(11) span {
+            background-position: 0 -37px;
+          }
+          &:nth-child(12) span {
+            background-position: 0 -333px;
+          }
+          &:nth-child(14) span {
+            background-position: 0 -444px;
+          }
+          &:nth-child(17) span {
+            background-position: 0 -111px;
+          }
+          &:nth-child(18) span {
+            background-position: 0 -185px;
+          }
+        }
+      }
+
+      &.bottom-list {
+        .type-profile span {
+          border-radius: 50%;
+          border: 1px solid #ddd;
+        }
+
+        .type-group span {
+          border-radius: 5px;
+        }
+      }
+
+      li {
+        margin-left: 10px;
+        a {
+          display: flex;
+          text-decoration: none;
+          color: var(--text-normal-black);
+          line-height: 35px;
+          padding: 5px 10px;
+          border-radius: 5px;
+          margin: 4px 0;
+
+          &:hover {
+            background-color: #e4e6e8;
+          }
+
+          span {
+            width: 35px;
+            height: 35px;
+            display: block;
+            margin-right: 10px;
+          }
+        }
+      }
+    }
+    .top-nav-show-more-btn,
+    .bottom-nav-show-more-btn {
+      margin-left: 25px;
+      margin-top: 10px;
+      cursor: pointer;
+
+      span {
+        background-color: #d8dadf;
+        display: inline-block;
+        $size: 30px;
+        width: $size;
+        height: $size;
+        line-height: $size;
+        text-align: center;
+        border-radius: 50%;
+        margin-right: 10px;
+      }
+    }
+
+    .shortcut-div {
+      margin: 20px 10px 0 25px;
+      border-top: var(--border);
+      padding-top: 8px;
+
+      h6 {
+        color: #65676b;
+      }
+      p {
+        color: var(--primary-color);
+        cursor: pointer;
+        padding: 5px;
+
+        &:hover {
+          background-color: #e4e6e8;
+        }
+      }
+    }
+
+    .footer-links {
+      margin: 0 10px 10px 25px !important;
+      flex-flow: row wrap;
+
+      li {
+        font-size: 13px;
+        color: var(--gray-text);
+        a {
+          display: block;
+          text-decoration: none;
+          color: var(--gray-text);
+          padding: 0 5px;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+  .middle-content {
+    position: fixed;
+    background-color: var(--gray-color);
+    width: 60%;
+    height: calc(100vh - 59px);
+    left: 20%;
+    overflow-y: scroll;
+    top: 59px;
+    padding: 15px 11.2% 0;
+
+  }
+  .sidebar-right {
+    position: fixed;
+    background-color: var(--gray-color);
+    width: 20%;
+    height: calc(100vh - 59px);
+    left: 80%;
+    overflow-y: scroll;
+    top: 59px;
+    padding-top: 15px;
+  }
+}
