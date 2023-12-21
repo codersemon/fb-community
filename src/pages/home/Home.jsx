@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import { FaAngleDown, FaAngleUp } from "react-icons/fa6";
 import StatusCreationBox from "../../component/statusCreationBox/StatusCreationBox";
+import StatusView from "../../component/statusView/StatusView";
 
 const Home = () => {
     // left sidebar top nav state 
@@ -129,9 +130,15 @@ const Home = () => {
             {/* Status Adding Card -- Start */}
             <StatusCreationBox />
             {/* Status Adding Card -- End */}
+
+            {/* Status show by loop -- Start  */}
+            <StatusView></StatusView>
+            <StatusView></StatusView>
+            <StatusView></StatusView>
+            {/* Status show by loop -- End  */}
         </div>
         <div className="sidebar-right">
-        <h3>sidebar right will added soon..</h3>
+        <h3>coming soon..</h3>
         </div>
     </section>
   </>;

@@ -177,6 +177,11 @@
     overflow-y: scroll;
     top: 59px;
     padding: 15px 11.2% 0;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      width: 0;
+    }
 
   }
   .sidebar-right {

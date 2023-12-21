@@ -1,9 +1,10 @@
 .header-wrap{
-    box-shadow: var(--box-shadow);
+    box-shadow: 0 1px 2px var(--shadow-1);
     position: fixed;
     width: 100%;
     top: 0;
     left: 0;
+    z-index: 999;
 
     .header-left{
         flex-basis: 31%;
