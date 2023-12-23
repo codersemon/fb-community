@@ -43,3 +43,30 @@
     }
   
 }
+
+
+.modal-backdrop{
+    background-color: #fff !important;
+    opacity: .8 !important;
+}
+.status_creation_modal{
+    .status_visibility_wrap{
+        gap: 10px;
+        
+        .content{
+            p{
+                margin: 0;
+            }
+
+            select{
+                height: 30px !important;
+                padding: 0;
+                background-color: var(--gray-color-2);
+                font-size: 14px;
+                font-weight: 500;
+                border: 5px solid var(--gray-color-2);
+
+            }
+        }
+    }
+}

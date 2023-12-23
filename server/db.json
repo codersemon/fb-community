@@ -1,170 +1,226 @@
 {
-    "fb_home_left_top_nav" : [
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/324503666_575897801048520_7553017535435239467_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHXZQ0bJaajHnNLak8c6ytKPi8ibBh8G-8-LyJsGHwb7-3W-_YqNxSK3vFsBvs0e6YPm6Xzl6WsdbzxHvjdgOic&_nc_ohc=QEsLseNhwZkAX85CmEX&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDlW_L5iuotOv0WK9-dJv9tU3mSW8Yn2uNnKcdSP3QSNQ&oe=658693FA",
-          "link_text": "Emon Khan",
-          "link_url": "/profile/1"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Friends",
-          "link_url": "/friends"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Groups",
-          "link_url": "/groups"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/eECk3ceTaHJ.png",
-          "link_text": "Feeds",
-          "link_url": "/"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Marketplace",
-          "link_url": "/marketplace"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Video",
-          "link_url": "/watch"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/CwKNCefmHON.png",
-          "link_text": "Ad Center",
-          "link_url": "/ad_center"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/ATlxuj_J5ty.png",
-          "link_text": "Ads Manager",
-          "link_url": "ads_manager"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/z3JoyCWlf8g.png",
-          "link_text": "Blood Donations",
-          "link_url": "/blooddonations"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/Jr0q8qKF2-Y.png",
-          "link_text": "Climate Science Center",
-          "link_url": "/climatesciensecenter"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/vTDQ3deAsEh.png",
-          "link_text": "Events",
-          "link_url": "/events"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Fundraisers",
-          "link_url": "/fundraisers"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/fGWbDwbx9W4.png",
-          "link_text": "Gaming Video",
-          "link_url": "/gaming"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Memories",
-          "link_url": "/onthisday"
-        }
-        ,
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/OZtVgL7REJT.png",
-          "link_text": "Messenger",
-          "link_url": "/messages"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/6Z9DShdc7zU.png",
-          "link_text": "Messenger Kids",
-          "link_url": "/messenger_kids"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Pages",
-          "link_url": "/pages"
-        },
-        {
-          "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
-          "link_text": "Saved",
-          "link_url": "/saved"
-        }
-      ],
-      
-      "fb_home_left_bottom_nav" : [
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/373662511_269984295853808_7384684051890785109_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeG3c4Rf95rhgpnPAlndr1pdHDrbTEji3sccOttMSOLexxmLl3apck6_omM4bqX3zvIULHg3DdWxil297bwy-Tfp&_nc_ohc=9rzKBlI4ry4AX-fRvKd&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCsCwABC18QvonlD6ehttn9A-_MZz3YDHXfpnj87ETrOg&oe=6588940D",
-          "link_text": "Devs Wizard",
-          "link_url": "/devswizard",
-          "type": "profile"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/280182167_1692149884451696_4561469126784728533_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFOCUKXYcRnO7Xhht_2Bvi6We2lmkgmAyVZ7aWaSCYDJTUd5lNRv7MM8W9EXIYO6ORMYaNo7KQtaa49ClvdeP4x&_nc_ohc=QN-SUxfXGVkAX_DR_zy&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAAqfLBXbydN6-NOrgKui6a_LDMW5FC68xXavfPyvmcGg&oe=658720F3",
-          "link_text": "Emon Khan",
-          "link_url": "/codersemonofficial",
-          "type": "profile"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/406346351_790306449773637_6848897806556823192_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=103&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeHGPv-YCQTVrHZtFO0AqWFyAKAucwmaH0MAoC5zCZofQ2-pzaVteKYH1xy1x2aLWiUTAEhvdIgXGHZlW1wVE0TU&_nc_ohc=PxzFKvYGIS4AX_5kqXs&_nc_ht=scontent.fdac7-1.fna&oh=00_AfD-gBDpySMwyK4ZrVHO0fMFznekvSt-ASu-B98ge9xDNg&oe=6587A3CA",
-          "link_text": "Crocoblock Community",
-          "link_url": "/groups/crocoblockcommunity",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/191208192_2114501602036556_7190681657122857818_n.jpg?stp=c30.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeGumDFXBTcQnCz_r2X7euJCkaIYrJaXW0-RohislpdbT8E-BwmCJBVZVHIvF4JQSduxmQePobe6OumbpXtCP7xa&_nc_ohc=IpMyQLe99d4AX-CcibF&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDR1oJw5UMmTYoFnGCqWrKf3DLqfFY7LJhTSXfFrFBqxA&oe=65AA7808",
-          "link_text": "বিভিন্ন সিমের ইন্টারনেট ও মিনিট অফার",
-          "link_url": "/groups/35445654126",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/248175264_3017666975113204_8730332068236152999_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeGghUwNEM_shnWoD3m1xeEx9pk6WCHNQxb2mTpYIc1DFhEadWpH71Wv1vMkJO9vX9Q81DwJLRYM7vxICzj52cU6&_nc_ohc=aHWCWG_PVhcAX_9SKcw&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCQhMbF_TxBkXtlNWCyeQPwiF8m6TgZN33zzh3G0wzSLQ&oe=6588CC0C",
-          "link_text": "To Let Jhenaidah",
-          "link_url": "/groups/354456541265445",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.18169-9/30264757_2064434797178673_8180631816099302818_n.jpg?stp=c9.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=100&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeFld0YX8QY37x5ajZ7iSx7fqO1Yc1TaBuio7VhzVNoG6MJgqMB5UpsjhkEc1a2p0rzW_qEff81RgkaGzfyNPnsB&_nc_ohc=G1z_Z-wEBBgAX-SxJwo&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBXMnWZg52-8J86tTxCfTRSCbnHsVnTIjo8xnSHn4KsYg&oe=65AA6767",
-          "link_text": "ঢাকাস্থ সিদ্ধি কল্যাণ সমিতি",
-          "link_url": "/groups/5689564231",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/139573197_105827148160095_6887825041241198951_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeHKFyyDHXzhes307qtD3RgReLGST9KLcvR4sZJP0oty9LMACevLe-C_nPR2DJfYIB-OILCewT3_nlZMzK6C7zoR&_nc_ohc=eJmBC9i4TK4AX8rfirZ&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDuXxScLEYyBoQ3CbKyNmKCof3c3YhH3Brbz522XVH1Fg&oe=65AA61C9",
-          "link_text": "To Let Kushtia",
-          "link_url": "/groups/35445654126224",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/299848465_470692295066181_4475597950662759526_n.png?stp=cp0_dst-png_p40x40&_nc_cat=103&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFzyvYLN_wWFqHs-F9V25_U7vlAkFAVuTbu-UCQUBW5Noru87nM5CyFcwykQc4Gglehfm1UtPjOcQxU4CQx58HF&_nc_ohc=HmvHVEZ8tDsAX-IZUHD&_nc_ht=scontent.fdac7-1.fna&oh=00_AfApa-6yU79OoI_wZ0BwrdDG2kl4QrUnnMn7V5c9hlwzlQ&oe=6586F634",
-          "link_text": "Git Bazar",
-          "link_url": "/groups/35445654126236565",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/337088483_1480194016121029_2830860512366252985_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeEOWCio7GPTYsx-hkEUeX83Ue6_YsCqDkBR7r9iwKoOQHGOjkEkBlNk0DRThPC5fA52V8tLMfWW-VIMfDAevx10&_nc_ohc=6kRLEzf_oLIAX_uYVCX&_nc_oc=AQmaG9t_rcR9sZ2A05kK97zwR0rV8NDN0DMEk8-obYPrREzW9cjWfb7JVw0PI-tkdBE&_nc_ht=scontent.fdac7-1.fna&oh=00_AfABeg5z5E7ah4AfpAS1fOtzp1jE0cNJHInGgDF169I_8g&oe=6586F27F",
-          "link_text": "Film Fest Online",
-          "link_url": "/groups/3544565412655",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/329806289_725477302416887_4994670770689227377_n.png?stp=cp0_dst-png_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHeVFYfgHtQ2vOqIucCSmpr9jz8rfgrt332PPyt-Cu3fR8LYRUP6w5rbTw95eRzTDchyITyzF5b00uSGnN_hLaH&_nc_ohc=1IPk_QL6r9MAX8_5uI9&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDYrFL3Qh3UGWyFW0nwNebktj-wcA1osQh4G9ZQ6D7jDg&oe=6588DA9F",
-          "link_text": "Big Commerce",
-          "link_url": "/groups/354456541231216",
-          "type": "group"
-        },
-        {
-          "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/328295986_1347681189361136_9020204401961479766_n.png?stp=cp0_dst-png_p40x40&_nc_cat=101&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeGi48MIIL5mC2I2AhMC-aWOeMfIgFSrnaB4x8iAVKudoKIdY2LmdBQ3IQMHu2KEM-hzAPTwRh7ym1qX0qBC3MtT&_nc_ohc=V5VmnOekoycAX8A-V75&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBUfsGM1rfOi0ugYnJcyrHgnHnoK7Q2YPtl4ux6AoQZKQ&oe=65877108",
-          "link_text": "Bag House",
-          "link_url": "/groups/3544565412312145246",
-          "type": "group"
-        }
-      ],
-
-      "status_posts": [
-        {
-
-        }
-      ]
+  "fb_home_left_top_nav": [
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/324503666_575897801048520_7553017535435239467_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHXZQ0bJaajHnNLak8c6ytKPi8ibBh8G-8-LyJsGHwb7-3W-_YqNxSK3vFsBvs0e6YPm6Xzl6WsdbzxHvjdgOic&_nc_ohc=QEsLseNhwZkAX85CmEX&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDlW_L5iuotOv0WK9-dJv9tU3mSW8Yn2uNnKcdSP3QSNQ&oe=658693FA",
+      "link_text": "Emon Khan",
+      "link_url": "/profile/1"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Friends",
+      "link_url": "/friends"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Groups",
+      "link_url": "/groups"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/eECk3ceTaHJ.png",
+      "link_text": "Feeds",
+      "link_url": "/"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Marketplace",
+      "link_url": "/marketplace"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Video",
+      "link_url": "/watch"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/CwKNCefmHON.png",
+      "link_text": "Ad Center",
+      "link_url": "/ad_center"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/ATlxuj_J5ty.png",
+      "link_text": "Ads Manager",
+      "link_url": "ads_manager"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/z3JoyCWlf8g.png",
+      "link_text": "Blood Donations",
+      "link_url": "/blooddonations"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/y3/r/Jr0q8qKF2-Y.png",
+      "link_text": "Climate Science Center",
+      "link_url": "/climatesciensecenter"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/vTDQ3deAsEh.png",
+      "link_text": "Events",
+      "link_url": "/events"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Fundraisers",
+      "link_url": "/fundraisers"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yJ/r/fGWbDwbx9W4.png",
+      "link_text": "Gaming Video",
+      "link_url": "/gaming"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Memories",
+      "link_url": "/onthisday"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/OZtVgL7REJT.png",
+      "link_text": "Messenger",
+      "link_url": "/messages"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yN/r/6Z9DShdc7zU.png",
+      "link_text": "Messenger Kids",
+      "link_url": "/messenger_kids"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Pages",
+      "link_url": "/pages"
+    },
+    {
+      "bg_img": "https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/4GR4KRf3hN2.png",
+      "link_text": "Saved",
+      "link_url": "/saved"
+    }
+  ],
+  "fb_home_left_bottom_nav": [
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/373662511_269984295853808_7384684051890785109_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=108&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeG3c4Rf95rhgpnPAlndr1pdHDrbTEji3sccOttMSOLexxmLl3apck6_omM4bqX3zvIULHg3DdWxil297bwy-Tfp&_nc_ohc=9rzKBlI4ry4AX-fRvKd&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCsCwABC18QvonlD6ehttn9A-_MZz3YDHXfpnj87ETrOg&oe=6588940D",
+      "link_text": "Devs Wizard",
+      "link_url": "/devswizard",
+      "type": "profile"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/280182167_1692149884451696_4561469126784728533_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFOCUKXYcRnO7Xhht_2Bvi6We2lmkgmAyVZ7aWaSCYDJTUd5lNRv7MM8W9EXIYO6ORMYaNo7KQtaa49ClvdeP4x&_nc_ohc=QN-SUxfXGVkAX_DR_zy&_nc_ht=scontent.fdac7-1.fna&oh=00_AfAAqfLBXbydN6-NOrgKui6a_LDMW5FC68xXavfPyvmcGg&oe=658720F3",
+      "link_text": "Emon Khan",
+      "link_url": "/codersemonofficial",
+      "type": "profile"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/406346351_790306449773637_6848897806556823192_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=103&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeHGPv-YCQTVrHZtFO0AqWFyAKAucwmaH0MAoC5zCZofQ2-pzaVteKYH1xy1x2aLWiUTAEhvdIgXGHZlW1wVE0TU&_nc_ohc=PxzFKvYGIS4AX_5kqXs&_nc_ht=scontent.fdac7-1.fna&oh=00_AfD-gBDpySMwyK4ZrVHO0fMFznekvSt-ASu-B98ge9xDNg&oe=6587A3CA",
+      "link_text": "Crocoblock Community",
+      "link_url": "/groups/crocoblockcommunity",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/191208192_2114501602036556_7190681657122857818_n.jpg?stp=c30.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeGumDFXBTcQnCz_r2X7euJCkaIYrJaXW0-RohislpdbT8E-BwmCJBVZVHIvF4JQSduxmQePobe6OumbpXtCP7xa&_nc_ohc=IpMyQLe99d4AX-CcibF&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDR1oJw5UMmTYoFnGCqWrKf3DLqfFY7LJhTSXfFrFBqxA&oe=65AA7808",
+      "link_text": "বিভিন্ন সিমের ইন্টারনেট ও মিনিট অফার",
+      "link_url": "/groups/35445654126",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/248175264_3017666975113204_8730332068236152999_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f22548&_nc_eui2=AeGghUwNEM_shnWoD3m1xeEx9pk6WCHNQxb2mTpYIc1DFhEadWpH71Wv1vMkJO9vX9Q81DwJLRYM7vxICzj52cU6&_nc_ohc=aHWCWG_PVhcAX_9SKcw&_nc_ht=scontent.fdac7-1.fna&oh=00_AfCQhMbF_TxBkXtlNWCyeQPwiF8m6TgZN33zzh3G0wzSLQ&oe=6588CC0C",
+      "link_text": "To Let Jhenaidah",
+      "link_url": "/groups/354456541265445",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.18169-9/30264757_2064434797178673_8180631816099302818_n.jpg?stp=c9.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=100&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeFld0YX8QY37x5ajZ7iSx7fqO1Yc1TaBuio7VhzVNoG6MJgqMB5UpsjhkEc1a2p0rzW_qEff81RgkaGzfyNPnsB&_nc_ohc=G1z_Z-wEBBgAX-SxJwo&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBXMnWZg52-8J86tTxCfTRSCbnHsVnTIjo8xnSHn4KsYg&oe=65AA6767",
+      "link_text": "ঢাকাস্থ সিদ্ধি কল্যাণ সমিতি",
+      "link_url": "/groups/5689564231",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/139573197_105827148160095_6887825041241198951_n.jpg?stp=c41.0.50.50a_cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-7&_nc_sid=f2fd11&_nc_eui2=AeHKFyyDHXzhes307qtD3RgReLGST9KLcvR4sZJP0oty9LMACevLe-C_nPR2DJfYIB-OILCewT3_nlZMzK6C7zoR&_nc_ohc=eJmBC9i4TK4AX8rfirZ&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDuXxScLEYyBoQ3CbKyNmKCof3c3YhH3Brbz522XVH1Fg&oe=65AA61C9",
+      "link_text": "To Let Kushtia",
+      "link_url": "/groups/35445654126224",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/299848465_470692295066181_4475597950662759526_n.png?stp=cp0_dst-png_p40x40&_nc_cat=103&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeFzyvYLN_wWFqHs-F9V25_U7vlAkFAVuTbu-UCQUBW5Noru87nM5CyFcwykQc4Gglehfm1UtPjOcQxU4CQx58HF&_nc_ohc=HmvHVEZ8tDsAX-IZUHD&_nc_ht=scontent.fdac7-1.fna&oh=00_AfApa-6yU79OoI_wZ0BwrdDG2kl4QrUnnMn7V5c9hlwzlQ&oe=6586F634",
+      "link_text": "Git Bazar",
+      "link_url": "/groups/35445654126236565",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/337088483_1480194016121029_2830860512366252985_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=100&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeEOWCio7GPTYsx-hkEUeX83Ue6_YsCqDkBR7r9iwKoOQHGOjkEkBlNk0DRThPC5fA52V8tLMfWW-VIMfDAevx10&_nc_ohc=6kRLEzf_oLIAX_uYVCX&_nc_oc=AQmaG9t_rcR9sZ2A05kK97zwR0rV8NDN0DMEk8-obYPrREzW9cjWfb7JVw0PI-tkdBE&_nc_ht=scontent.fdac7-1.fna&oh=00_AfABeg5z5E7ah4AfpAS1fOtzp1jE0cNJHInGgDF169I_8g&oe=6586F27F",
+      "link_text": "Film Fest Online",
+      "link_url": "/groups/3544565412655",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/329806289_725477302416887_4994670770689227377_n.png?stp=cp0_dst-png_p40x40&_nc_cat=107&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeHeVFYfgHtQ2vOqIucCSmpr9jz8rfgrt332PPyt-Cu3fR8LYRUP6w5rbTw95eRzTDchyITyzF5b00uSGnN_hLaH&_nc_ohc=1IPk_QL6r9MAX8_5uI9&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDYrFL3Qh3UGWyFW0nwNebktj-wcA1osQh4G9ZQ6D7jDg&oe=6588DA9F",
+      "link_text": "Big Commerce",
+      "link_url": "/groups/354456541231216",
+      "type": "group"
+    },
+    {
+      "bg_img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-1/328295986_1347681189361136_9020204401961479766_n.png?stp=cp0_dst-png_p40x40&_nc_cat=101&ccb=1-7&_nc_sid=4da83f&_nc_eui2=AeGi48MIIL5mC2I2AhMC-aWOeMfIgFSrnaB4x8iAVKudoKIdY2LmdBQ3IQMHu2KEM-hzAPTwRh7ym1qX0qBC3MtT&_nc_ohc=V5VmnOekoycAX8A-V75&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBUfsGM1rfOi0ugYnJcyrHgnHnoK7Q2YPtl4ux6AoQZKQ&oe=65877108",
+      "link_text": "Bag House",
+      "link_url": "/groups/3544565412312145246",
+      "type": "group"
+    }
+  ],
+  "status_posts": [
+    {
+      "message": "স্ত্রী-সন্তানসহ ছয়জনের পরিবার নিয়ে টিনের ঘরে থাকতেন মো. জাগির হোসেন। মানুষের বাড়িতে দিনমজুরি করে যা আয় হয়, তা–ই দিয়ে কোনোমতে চলে অভাবের সংসার। দীর্ঘদিন ধরে অল্প অল্প করে জমিয়েছিলেন ১০ হাজার টাকা। টানাটানির সংসারে এটুকুই ছিল তাঁর সঞ্চয়। ঘর আর আসবাবের সঙ্গে টাকাগুলোও আগুনে পুড়ে ছাই হয়ে গেছে।",
+      "video_url": "https://www.youtube.com/watch?v=6mttwIBcig0",
+      "photo_url": "",
+      "createdAt": 1703336494489,
+      "id": 2
+    },
+    {
+      "message": "আজ শনিবার দুপুর ১২টার দিকে কক্সবাজারের টেকনাফ উপজেলার বাহারছড়া ইউনিয়নের হলবনিয়া গ্রামে পাশাপাশি পাঁচটি বসতঘর আগুনে পুড়ে গেছে। তার মধ্যে একটি ঘর জাগির হোসেনের। আক্ষেপের সুরে জাগির হোসেন বলেন, কাপড়চোপড় যা ছিল সব পুড়ে গেছে। জমানো টাকাগুলো দিয়ে ছেলেমেয়েদের জন্য কিছু শীতের কাপড় কেনার ইচ্ছা ছিল। এই তীব্র শীতে তাদের গরম কাপড়চোপড় নেই। এখন তো খোলা আকাশের নিচে থাকতে হবে।\n\nস্থানীয় বাসিন্দারা জানান, দুপুরে কোনো একটি ঘরের বিদ্যুৎ–সংযোগ থেকে আগুনের সূত্রপাত হয়। এ সময় বসতঘরের লোকজনের চিৎকারে আশপাশের মানুষ আগুন নিয়ন্ত্রণে আনার জন্য এগিয়ে আসেন। কোনো কিছু বুঝে ওঠার আগেই জাগির হোসেনের পাশাপাশি মো. কামাল, সাহাব মিয়া, হোছন আহমদ, খতিজা বেগমের ঘর আগুনে পুড়ে যায়। তবে দ্রুত লোকজন বেরিয়ে আসায় কোনো হতাহতের ঘটনা ঘটেনি। এতে প্রায় ৩৫ লাখ টাকার ক্ষতি হয়েছে বলে জানান ক্ষতিগ্রস্ত পরিবারের সদস্যরা।",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2023-11%2F1aeb876e-d0c2-46fa-84ee-bfe2a08081e3%2Fmurder.png?rect=3%2C0%2C1592%2C1061&auto=format%2Ccompress&fmt=webp&format=webp&w=300&dpr=1.0",
+      "createdAt": 1703342161772,
+      "id": 4
+    },
+    {
+      "message": "গত ২৮ অক্টোবর থেকে হরতাল-অবরোধের কারণে তেমন পর্যটক ছিল না কক্সবাজারে। তবে সাপ্তাহিক ছুটির দিন ও বিজয় দিবস পরপর পড়ে যাওয়ায় ঢাকা–চট্টগ্রামসহ সারা দেশ থেকে বেড়াতে এসেছেন প্রচুর পর্যটক। গত বৃহস্পতিবার থেকেই বাড়তে শুরু করেছে পর্যটক। এই তিন দিনের ছুটিতে কক্সবাজার সৈকত ভ্রমণে এসেছেন অন্তত সাড়ে ৩ লাখ পর্যটক। এতে জমে উঠেছে পর্যটককেন্দ্রিক ব্যবসা-বাণিজ্যও। তবে সৈকতের সুযোগ-সুবিধা নিয়ে অভিযোগ রয়েছে অধিকাংশ পর্যটকের।\n\nকক্সবাজার হোটেল-গেস্টহাউস মালিক সমিতির সাধারণ সম্পাদক সেলিম নেওয়াজ প্রথম আলোকে বলেন, বৃহস্পতি, শুক্র ও শনিবার তিন দিনে দৈনিক গড়ে ১ লাখ পর্যটক ভ্রমণে এসেছেন। আজ রোববার সৈকতের পাঁচ শতাধিক হোটেল-গেস্টহাউসে অবস্থান করছেন ৭০ হাজারের বেশি পর্যটক। যা আগের দিন শনিবার ছিল লাখের কাছাকাছি।",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2023-12%2F5b35d58b-e8ea-40a5-bdf5-85b6926c8bb1%2FWhatsApp_Image_2023_12_17_at_17_25_45.jpeg?rect=160%2C0%2C1280%2C720&auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "createdAt": 1703342440197,
+      "id": 5
+    },
+    {
+      "message": "কক্সবাজারের সাগরদ্বীপ কুতুবদিয়া উপজেলায় পুকুরে ডুবে শিশুমৃত্যু রোধ করা যাচ্ছে না কিছুতেই। প্রতি মাসে মারা যাচ্ছে একাধিক শিশু। গত প্রায় ছয় বছরে পুকুরে ডুবে মারা গেছে অন্তত ২৯০ জন।\n\nউপজেলা প্রশাসন, জনস্বাস্থ্য প্রকৌশল অধিদপ্তর ও হাসপাতাল সূত্রে জানা গেছে, ৯৯ দশমিক ৩২ বর্গকিলোমিটার আয়তনের এই উপজেলার ছয়টি ইউনিয়নের লোকসংখ্যা ১ লাখ ৫৭ হাজার। পরিবারের সংখ্যা ১৯ হাজর ৯০৫। পুকুর আছে ১৪ হাজারের বেশি। বলা যায়, যত বাড়ি, তত পুকুর। এর মধ্যে অন্তত ১০ হাজার ৪৫০টি পুকুর অরক্ষিত অবস্থায় পড়ে আছে।\n\nসম্প্রতি উপজেলার কৈয়ারবিল, লেমশিখালী, উত্তরধুরুং, দক্ষিণ ধুরুং, আলী আকবরডেইল ও বড়ঘোপ ইউনিয়নের শতাধিক গ্রাম ঘুরে অরক্ষিত পুকুরের চিত্র চোখে পড়েছে। এসব পুকুরের চারপাশে নেই কোনো ঘেরা বা বেড়া। শিশুরা সহজেই সেসব পুকুরে যেতে পারে।",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2023-12%2Fbbe28cf8-3a95-4ed9-bc94-3c5defed777d%2F63d5439c_f977_4dba_ba35_a4308bbd67fc.jfif?rect=0%2C17%2C1568%2C882&auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "createdAt": 1703342440257,
+      "id": 6
+    },
+    {
+      "message": "তখন তৃতীয় শ্রেণির শিক্ষার্থী শমসের নেওয়াজ। সালটা ১৯৯৪। সে বছর এক লঞ্চ দুর্ঘটনায় শমসেরের জীবনটা ওলট–পালট হয়ে যায়। তাঁর মায়ের মৃত্যু হয়। পরে কলেজশিক্ষক বাবাই তাঁকে কখনো গানের স্কুলে নিয়ে গেছেন, কখনো নাচের মঞ্চে তুলে দিয়েছেন। বাবার স্নেহেই বেড়ে ওঠেন তিনি। বাবাকে দেখেই শমসের সিদ্ধান্ত নেন, জীবনে যদি কিছু হতেই হয়, তবে শিক্ষক হবেন। সেই চাওয়া পূরণ হয়েছে তাঁর।\n\n শমসের এখন চট্টগ্রাম বিভাগের শ্রেষ্ঠ সহকারী শিক্ষক। গত ১১ অক্টোবর চট্টগ্রামের বিভাগীয় কমিশনার ও প্রাথমিক শিক্ষা অধিদপ্তর চট্টগ্রামের উপপরিচালক শফিকুল ইসলাম স্বাক্ষরিত চিঠিতে শমসের শ্রেষ্ঠ সহকারী শিক্ষক হিসেবে তাঁর নামটি দেখতে পান। এর পর থেকেই বাঁধভাঙা আনন্দে ভাসছেন কক্সবাজার জেলার কুতুবদিয়া উপজেলার এই বাসিন্দা। বর্তমানে কুতুবদিয়া উপজেলার আলী আকবর ডেইল ইউনিয়নের ফ্লাইট লেফটেনেন্ট কাইমুল হুদা সরকারি প্রাথমিক বিদ্যালয়ের জ্যেষ্ঠ সহকারী শিক্ষক তিনি। সবাই তাঁকে মুক্তা নামেই চেনেন। শিক্ষার্থীদের কাছেও প্রিয় ‘মুক্তা ম্যাম’ নামে পরিচিত।\n\n",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2023-11%2Fe2cf93ac-c8c3-4c6b-bac7-797042f0cca4%2Fctg_1.jpg?auto=format%2Ccompress&fmt=webp&format=webp&dpr=1.0&q=70&w=640",
+      "createdAt": 1703342440157,
+      "id": 7
+    },
+    {
+      "message": "অষ্টম ও নবম শ্রেণিতে নতুন শিক্ষাক্রম বাস্তবায়নে উপজেলা পর্যায়ে শিক্ষক প্রশিক্ষণ চলছে। শিক্ষকদের এ প্রশিক্ষণ চলবে ৩১ ডিসেম্বর পর্যন্ত। প্রথম ধাপে ৪৭৭টি উপজেলা-থানায় ৫০৮টি ব্যাচে শিক্ষকদের প্রশিক্ষণ দেওয়া হবে। প্রথম পর্যায়ে ইআইআইএন-ধারী শিক্ষাপ্রতিষ্ঠানের শিক্ষকেরা প্রশিক্ষণ পাচ্ছেন। Updated.",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2020-09%2F46b0cdfb-8b82-4e01-9396-7bd7016fb9a2%2Fframe_1600X1067ss.png?rect=0%2C9%2C1600%2C900&auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "createdAt": 1703342802518,
+      "id": 8
+    },
+    {
+      "message": "সরকারি প্রাথমিক বিদ্যালয়ে প্রথম ধাপে রংপুর, বরিশাল ও সিলেট বিভাগে সহকারী শিক্ষক নিয়োগের লিখিত ৮ ডিসেম্বর অনুষ্ঠিত হয়েছে। বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়ের কারিগরি সহযোগিতায় ফলাফল তৈরির কাজ চলছে।\n\nপ্রাথমিক শিক্ষা অধিদপ্তরের এক কর্মকর্তা নাম প্রকাশ না করার শর্তে প্রথম আলোকে বলেন, বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয় পরীক্ষার্থীদের উত্তরপত্র মূল্যায়নের কাজ করছে। ইতিমধ্যে উত্তরপত্র স্ক্যানিংয়ের কাজ শেষ হয়েছে। এখন প্রার্থীদের উত্তরপত্র যাচাই-বাছাইয়ের কাজ করছে বুয়েট।\n\nউত্তরপত্রে কী ধরনের যাচাই-বাছাই করা হচ্ছে, এমন প্রশ্নের জবাবে ওই কর্মকর্তা বলেন, ‘অনেক প্রার্থী নিজে পরীক্ষার হলে উপস্থিত না হয়েও তাঁর স্বাক্ষর আরেকজন দিয়েছেন কি না, সেটি পরীক্ষা করা হচ্ছে। এ ছাড়া অনেকে সঠিকভাবে বৃত্ত পূরণ করেন না, সেটিও দেখা হচ্ছে। উত্তরপত্র যাচাই-বাছাই শেষ হলে বুয়েট আমাদের জানাবে, তখন আমরা বৈঠক করে ফল প্রকাশ করব।’",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2022-12%2F7f11f66d-271d-46f5-974a-7608f5bae9cc%2F11.jpeg?rect=0%2C67%2C1280%2C720&auto=format%2Ccompress&fmt=webp&format=webp&dpr=1.0&q=70&w=640",
+      "createdAt": 1703343409972,
+      "id": 9
+    },
+    {
+      "message": "‘যদি লিভারপুলের বিপক্ষে পারা যায়, অন্য যেকোনো দলের বিপক্ষেও পারা যাবে।’ \n\nগত সপ্তাহে অ্যানফিল্ডে লিভারপুলের সঙ্গে গোলশূন্য ড্র করেছিল ম্যানচেস্টার ইউনাইটেড। লিগ শিরোপা লড়াইয়ে থাকা লিভারপুলকে যদি তাদেরই মাঠে আটকে দেওয়া যায়, তবে ওয়েস্ট হামকে কেন নয়, ম্যাচপূর্ব সংবাদ সম্মেলনে এমন যুক্তিই দিয়েছিলেন ইউনাইটেডের কোচ এরিক টেন হাগ। \n\nকিন্তু ম্যানচেস্টার ইউনাইটেড কোচের ‘উদ্দীপনা-বার্তা’ ব্যর্থ হয়েছে। আজ ওয়েস্ট হামের মাঠে ইউনাইটেড হেরে গেছে ২-০ গোলে। ",
+      "video_url": "",
+      "photo_url": "https://images.prothomalo.com/prothomalo-bangla%2F2023-12%2F54e4ab43-d3cd-421e-9513-1bd2aaea2cfa%2F176477_01_02.jpg?rect=0%2C0%2C3000%2C1688&auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "createdAt": 1703345081502,
+      "id": 10
+    },
+    {
+      "message": "ইউরোপের সর্বোচ্চ আদালতের রায়ে আবার প্রাণ ফিরে পেয়েছে ‘বিদ্রোহী টুর্নামেন্ট’ হিসেবে পরিচিতি পাওয়া ইউরোপিয়ান সুপার লিগ। সুপার লিগের কুশীলবরা একে বলছেন ‘ফুটবলের মুক্তি’, ‘ইউরোপের মুক্তি’। স্বাভাবিকভাবেই এর বিপক্ষে ফুটবলের প্রতিষ্ঠিত সংস্থাগুলো। আদালতের রায়ের পর সুপার লিগ প্রসঙ্গে কে কী বললেন—",
+      "video_url": "https://www.youtube.com/watch?v=bEXRnitQOpw",
+      "photo_url": "",
+      "id": 11
+    }
+  ]
 }
